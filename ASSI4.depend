@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1544796148 source:g:\fci\programming 2\codeblocks\assi4\codontable.cpp
+	"CodonTable.h"
+	<bits/stdc++.h>
+	"CodonsTable.h"
+	<fstream>
+
+1544792900 g:\fci\programming 2\codeblocks\assi4\codontable.h
+	<iostream>
+	"RNA.h"
+
+1544811932 source:g:\fci\programming 2\codeblocks\assi4\dna.cpp
+	"DNA.h"
+
+1544807969 g:\fci\programming 2\codeblocks\assi4\dna.h
+	"RNA.h"
+	"Sequence.h"
+
+1544814198 source:g:\fci\programming 2\codeblocks\assi4\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<bits/stdc++.h>
+	"PROTEIN.h"
+	"CodonTable.h"
+
+1544812810 source:g:\fci\programming 2\codeblocks\assi4\protein.cpp
+	"PROTEIN.h"
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+
+1544812810 g:\fci\programming 2\codeblocks\assi4\protein.h
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+
+1544812941 source:g:\fci\programming 2\codeblocks\assi4\rna.cpp
+	"RNA.h"
+
+1544812056 g:\fci\programming 2\codeblocks\assi4\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonTable.h"
+
+1544807502 source:g:\fci\programming 2\codeblocks\assi4\sequence.cpp
+	"Sequence.h"
+
+1544801665 g:\fci\programming 2\codeblocks\assi4\sequence.h
+	<bits/stdc++.h>
+
+1544542238 g:\fci\programming 2\codeblocks\assi4\codonstable.h
+	<iostream>
+
